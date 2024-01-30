@@ -1,0 +1,6 @@
+Area,Rooms,MaterialList
+600,3,"Pipe 15, Plugs 80"
+800,4,"Pipe 20, Plugs 100, Joints 5"
+1000,5,"Pipe 25, Plugs 120, Joints 10, Valves 3"
+1200,6,"Pipe 30, Plugs 150, Joints 15, Valves 5, Connectors 2"
+1500,7,"Pipe 35, Plugs 180, Joints 20, Valves 7, Connectors 3, Faucets 2"
